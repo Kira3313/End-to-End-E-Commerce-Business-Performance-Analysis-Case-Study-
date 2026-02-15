@@ -168,6 +168,7 @@ Maintain fulfillment efficiency while monitoring cancellation patterns to preven
 - Matplotlib / Seaborn
 - SQL-based analytical logic
 - Data Cleaning & Transformation
+- Jupyter Notebook
 - Exploratory Data Analysis (EDA)
 
 ---
